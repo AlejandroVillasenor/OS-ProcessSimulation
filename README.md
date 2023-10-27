@@ -1,2 +1,4 @@
-# ProcesamientoEnLotes
-Simulación del procesamiento en lotes sencillos y multiprogramados.
+# Sistemas operativos
+Trabajos realizados en la materia de sistemas operativos.
+
+CUCEI
