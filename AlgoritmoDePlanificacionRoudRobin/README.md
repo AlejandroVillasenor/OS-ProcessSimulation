@@ -1,6 +1,6 @@
 # Algoritmo_De_Planificacion_Round-Robin
 
-    Programa 4 - Algoritmo de planificación de procesos Round-Robin - Continuacion
+    Programa 4 - Algoritmo de planificación de procesos Round-Robin
 
 **Integrantes.**
 
